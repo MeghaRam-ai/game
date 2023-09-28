@@ -9,7 +9,7 @@
  ```bash 
    $ pip install -r requirements.txt
    ```
-#### To start streamlit application
+## Then start streamlit application
 
 1. Open terminal and go to the location frontend and excecute the following command
 ```bash
