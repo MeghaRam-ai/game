@@ -4,7 +4,7 @@
 1. Random Selection
 2. RNN
 
-#### To run the model and notebooks, first install necessary packages
+## To run the project, first install necessary packages
 
  ```bash 
    $ pip install -r requirements.txt
