@@ -11,7 +11,7 @@
    ```
 ## Then start streamlit application
 
-1. Open terminal and go to the location frontend and excecute the following command
+1. Open terminal and go to the project root and excecute the following command
 ```bash
   $ streamlit run frontend/page.py
   ```
